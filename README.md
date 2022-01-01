@@ -1,4 +1,4 @@
-# Kaggle_Ames_housing_price_regression
+# Kaggle Ames housing price advanced regression
 Regression analysis and predicting housing prices using the Kaggle Ames housing price dataset
 
 Challenge link: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
